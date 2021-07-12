@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-
+# Hi there 👋
 
 
 - 🔭 I’m currently working on achive my targets.
